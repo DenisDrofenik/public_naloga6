@@ -1,9 +1,9 @@
 Folder PATH listing for volume Windows-SSD
 Volume serial number is 0A81-A7DC
 C:.
-¦   README.md
-¦   
-+---Naloga6
+|   README.md
+|   
+\---Naloga6
         .gitignore
         vaja1.html
         vaja11.html
